@@ -1,0 +1,2 @@
+// Install SW
+addEventListener
